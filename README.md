@@ -1,5 +1,5 @@
 ## 💫 Sobre Mim:
-🎓 Atualmente estou estudando Python | Java;<br>📍 Paulista - PE / Brasil;
+Em busca de uma oportunidade na aréa de Análise e Desenvolvimento de Sistemas😎<br>🎓 Atualmente estou estudando Python | Java;<br>📚 Buscando constantemente adquirir conhecimento;<br>🌐 Visando sempre melhorias futuras;<br>📍 Paulista - PE / Brasil;
 
 
 ## 🌐 Redes Sociais:
