@@ -1,5 +1,5 @@
 ## 💫 Sobre Mim:
-🏢 Em busca de uma oportunidade na aréa de Análise e Desenvolvimento de Sistemas;<br>🎓 Atualmente estou estudando Python | Java;<br>📚 Buscando constantemente adquirir conhecimento;<br>🌐 Visando sempre melhorias futuras;<br>📍 Paulista - PE / Brasil;
+🏢 Em busca de uma oportunidade na aréa de Análise e Desenvolvimento de Sistemas;<br>🎓 Atualmente estou estudando Python | Java;<br>📚 Buscando constantemente adquirir conhecimento;<br>🌐 Visando sempre melhorias futuras;<br>📍 Recife - PE / Brasil;
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/douglas.bcsilva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/douglas-batista-33116221a/) 
